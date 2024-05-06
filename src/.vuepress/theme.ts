@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "http://mms2.baidu.com/it/u=326350594,91254488&fm=253&app=138&f=JPEG&fmt=auto&q=75",
 
-  repo: "bincooo/vuepress-doc",
+  repo: "bincooo/FastGPT-plugins",
 
   docsDir: "src",
 
