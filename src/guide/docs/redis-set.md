@@ -12,7 +12,7 @@ author: bincooo
 
 #### 说明
 
-用于缓存短期记忆，超出长度总结记忆内容，长时间不对话则遗弃缓存的记忆
+用于缓存数据，过期时间>0会自动清理
 
 [icon](https://github.com/bincooo/vuepress-doc/assets/36452456/4d1ae982-4f36-464a-b986-bbe8f0796d14)
 
