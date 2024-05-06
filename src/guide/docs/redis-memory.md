@@ -19,7 +19,7 @@ author: bincooo
 
 [icon](https://github.com/bincooo/vuepress-doc/assets/36452456/4d1ae982-4f36-464a-b986-bbe8f0796d14)
 
-<img width="307" alt="Screenshot 2024-05-06 at 22 08 30" src="https://github.com/bincooo/vuepress-doc/assets/36452456/b26e32fe-8e84-4005-83fd-5a8e8f683563">
+<img width="378" alt="Screenshot 2024-05-06 at 22 42 52" src="https://github.com/bincooo/FastGPT-plugins/assets/36452456/39dccf67-5177-4d8b-90b3-ce5c0222ec06">
 
 
 
@@ -36,3 +36,5 @@ http模块内的 `http://proxy.io:8888/laf/eval` 地址改为实际的 `apis` �
 http模块内的 `http://proxy.io:8888/redis` 地址改为实际的 `apis` 服务地址
 
 需依赖 [REDIS SET](docs/redis-set.md) 插件
+
+内部写死1800s过期时间
