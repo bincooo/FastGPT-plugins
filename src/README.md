@@ -2,6 +2,7 @@
 home: true
 icon: home
 title: 导航页
+author: bincooo
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImageStyle:
   background-attachment: fixed
