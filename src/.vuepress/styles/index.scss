@@ -1,0 +1,20 @@
+// place your custom styles here
+:root {
+    --search-input-width: 230px !important;
+    --nav-dropdown-min-width: 150px;
+    --font-family-code: "Courier New", Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+}
+
+.vp-navbar-start .vp-nav-logo {
+    border-radius: 50%;
+}
+
+.vp-sidebar-links {
+    a.vp-sidebar-page {
+        border-radius: 0;
+    }
+
+    a.vp-sidebar-page.active {
+        border-right: 2px solid;
+    }
+}
