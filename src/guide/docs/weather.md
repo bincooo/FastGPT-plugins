@@ -9,7 +9,7 @@ author: bincooo
 >
 >Depend on:
 >
->​       [REDIS SET](docs/redis-set.md)
+>​       [REDIS SET](redis-set.md)
 
 
 
