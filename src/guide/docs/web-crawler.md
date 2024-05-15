@@ -33,8 +33,4 @@ author: bincooo
 
 http模块内的 `http://proxy.io:8888/laf/eval` 地址改为实际的 `apis` 服务地址
 
-不知为何，FastGPT里http组件无法通过请求，会返回403
-
-所以在 `apis` 里转发
-
-需替换http模块内的 `http://proxy.io:8888/baidu/` 地址改为实际的 `apis` 服务地址
+http模块内的 `http://proxy.io:8888/redis` 地址改为实际的 `apis` 服务地址
