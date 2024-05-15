@@ -13,3 +13,4 @@ author: bincooo
 - [redis-set](docs/redis-set.md) redis 缓存
 - [weather](docs/weather.md) 天气信息
 - [web-crawler](docs/web-crawler.md) 网页爬虫
+- [safe](docs/safe.md) 安全防护
