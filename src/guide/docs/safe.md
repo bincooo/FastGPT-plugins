@@ -18,7 +18,7 @@ author: bincooo
 
 **参数**：
 
-regex：js正则，每行一个，可输入多行。空格分割
+regex：js正则，每行一个，可输入多行。回车分割
 
 appId、cookie：到[百度开发者平台去debug](https://console.bce.baidu.com/)，登陆后访问[在线审核 (baidu.com)](https://ai.baidu.com/censoring#/audit/online)里的文本一栏，随便填一条信息，通过F12开发者工具里获取参数
 
